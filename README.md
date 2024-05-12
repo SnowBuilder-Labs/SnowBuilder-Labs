@@ -1,2 +1,2 @@
 # SnowBuilder-Labs
-Downloadable file for SnowBuilder for Snowflake
+Downloadable files for SnowBuilder for Snowflake
